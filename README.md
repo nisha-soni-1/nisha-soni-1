@@ -1,4 +1,4 @@
-![logo](https://github.com/nisha-soni-1/nisha-soni-1/blob/main/web-development-coding-programming-futuristic-banner-computer-code-laptop_3482-5572.avif)
+![logo](46eef600-9bab-11ea-87d9-ff5e73c39b97.png)
 <h1 align="center">Hi 👋, I'm Nisha soni</h1>
 <h3 align="center">"👋 Hey there! Welcome to my GitHub universe! I'm Nisha Soni, a BCA 2nd year student diving into the exciting world of Python and data science. Join me on this journey as I explore, learn, and create impactful projects. Let's connect and code together! 🌟"</h3>
 
