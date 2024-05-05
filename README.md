@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nisha soni</h1>
 <h3 align="center">"👋 Hey there! Welcome to my GitHub universe! I'm Nisha Soni, a BCA 2nd year student diving into the exciting world of Python and data science. Join me on this journey as I explore, learn, and create impactful projects. Let's connect and code together! 🌟"</h3>
 
-<img align="right"alt="coding"width="100"src="![258871853-20e24ac8-354d-4ec0-8f25-ef158aec9420](https://github.com/nisha-soni-1/nisha-soni-1/assets/121936371/97918384-c560-4801-b874-9ab10421ff6b)">
+<img align="right" alt="coding" width="30%" src="https://github.com/nisha-soni-1/nisha-soni-1/assets/121936371/97918384-c560-4801-b874-9ab10421ff6b">
 
 
 - 🌱 I’m currently learning **Exploring advanced machine learning techniques.**
