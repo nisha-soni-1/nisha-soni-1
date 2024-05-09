@@ -1,4 +1,4 @@
-![logo](521aa720-e01b-403a-b010-5ab6eb33efaa.jpg)
+![logo](https://www.canva.com/design/DAGEpv8C19M/PFMMkr4Dq6IAJPnkV1ca7Q/edit?utm_content=DAGEpv8C19M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 <h1 align="center">Hi 👋, I'm Nisha soni</h1>
 <h3 align="center">"👋 Hey there! Welcome to my GitHub universe! I'm Nisha Soni, a BCA 2nd year student diving into the exciting world of Python and data science. Join me on this journey as I explore, learn, and create impactful projects. Let's connect and code together! 🌟"</h3>
 
