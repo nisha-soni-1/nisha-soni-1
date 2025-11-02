@@ -101,7 +101,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=nisha-soni-1&limit=5&theme=radical&combine_all_yearly_contributions=true)  
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=nisha-soni-1&icon=0&color=6" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=nisha-soni-1&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
