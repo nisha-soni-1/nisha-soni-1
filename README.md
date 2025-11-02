@@ -1,30 +1,42 @@
-![logo](521aa720-e01b-403a-b010-5ab6eb33efaa.jpg)
+<!-- ![logo](521aa720-e01b-403a-b010-5ab6eb33efaa.jpg) -->
 
-<h1 align="center">Hi 👋, I'm Nisha Soni</h1>
-<h3 align="center">✨ Frontend Developer | Python & Data Enthusiast | Lifelong Learner ✨</h3>
+<h1 align="center">👋 Hi, I'm Nisha Soni</h1>
+<h3 align="center">💻 Frontend Developer | UI/UX Enthusiast | Creative Coder ✨</h3>
 
-<img align="right" alt="coding" width="30%" src="https://github.com/nisha-soni-1/nisha-soni-1/assets/121936371/97918384-c560-4801-b874-9ab10421ff6b">
+<!-- <img align="right" alt="coding" width="30%" src="https://github.com/nisha-soni-1/nisha-soni-1/assets/121936371/97918384-c560-4801-b874-9ab10421ff6b"> -->
 
 ---
 
 ### 💫 About Me  
 
-👋 Hey there! I'm **Nisha Soni**, a **BCA 2nd-year student** exploring both **Frontend Development** and **Data Science**.  
-I love creating responsive, user-friendly, and visually stunning web interfaces — and analyzing data to uncover meaningful insights.  
+I'm **Nisha Soni**, a passionate **Frontend Developer** dedicated to building responsive, visually engaging, and user-friendly websites.  
+I enjoy transforming ideas into beautiful digital experiences with **modern web technologies** like **React**, **Next.js**, and **Tailwind CSS**.  
 
-🌱 I’m currently learning **advanced machine learning techniques**, **React.js**, and **Next.js**.  
-💬 Ask me about **Python**, **Frontend Development**, or **Data Visualization**.  
-👯 I’m looking to collaborate on **exciting web apps** and **data-driven projects**.  
-⚡ Fun fact: I blend creativity with logic — designing UI by day and crunching data by night!  
+🌱 I’m currently exploring **TypeScript** and **advanced React concepts** to strengthen my frontend skills.  
+👯 I’m eager to collaborate on **innovative web projects** and **open-source contributions**.  
+💬 Ask me about **UI design**, **frontend performance**, or **responsive layouts**.  
+⚡ Fun fact: I love adding small animations that make websites come alive!  
 
 ---
 
 ## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nisha-soni-a6b130257)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_nishasonii_)  
-[![X](https://img.shields.io/badge/Twitter-%23000000.svg?logo=X&logoColor=white)](https://x.com/NishaSo01040824)  
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF.svg?logo=kaggle&logoColor=white)](https://kaggle.com/_nishasoni_)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ns6433629@gmail.com)  
+<p align="left">
+  <a href="https://linkedin.com/in/nisha-soni-a6b130257" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/_nishasonii_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
+  </a>
+  <a href="https://x.com/NishaSo01040824" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%23000000.svg?logo=X&logoColor=white"/>
+  </a>
+  <a href="https://kaggle.com/_nishasoni_" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?logo=kaggle&logoColor=white"/>
+  </a>
+  <a href="mailto:ns6433629@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
