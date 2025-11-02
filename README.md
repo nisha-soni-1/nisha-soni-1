@@ -3,19 +3,27 @@
 <h1 align="center">👋 Hi, I'm Nisha Soni</h1>
 <h3 align="center">💻 Frontend Developer | UI/UX Enthusiast | Creative Coder ✨</h3>
 
-<!-- <img align="right" alt="coding" width="30%" src="https://github.com/nisha-soni-1/nisha-soni-1/assets/121936371/97918384-c560-4801-b874-9ab10421ff6b"> -->
+🎨 Passionate about crafting clean, minimal, and interactive user interfaces.  
+🚀 Turning ideas into real-world web experiences using code + creativity.
+
+<img align="right" alt="coding" width="35%" src="https://github.com/nisha-soni-1/nisha-soni-1/assets/121936371/97918384-c560-4801-b874-9ab10421ff6b">
 
 ---
 
 ### 💫 About Me  
 
-I'm **Nisha Soni**, a passionate **Frontend Developer** dedicated to building responsive, visually engaging, and user-friendly websites.  
-I enjoy transforming ideas into beautiful digital experiences with **modern web technologies** like **React**, **Next.js**, and **Tailwind CSS**.  
+🌱 Currently learning **TypeScript** and **advanced React concepts** to level up my frontend skills.  
+🤝 Open to collaborating on **creative frontend projects** and **open-source design systems**.  
+💬 Ask me about **UI/UX design**, **frontend performance**, or **responsive layouts**.  
+🎨 I love adding small animations that make websites come alive!  
+⚡ Fun fact: I believe a good design speaks louder than words.
 
-🌱 I’m currently exploring **TypeScript** and **advanced React concepts** to strengthen my frontend skills.  
-👯 I’m eager to collaborate on **innovative web projects** and **open-source contributions**.  
-💬 Ask me about **UI design**, **frontend performance**, or **responsive layouts**.  
-⚡ Fun fact: I love adding small animations that make websites come alive!  
+---
+
+### 🔭 Current Focus  
+- Building interactive web apps with **Next.js** & **TypeScript**  
+- Learning advanced **UI animations** using **Framer Motion**  
+- Exploring **AI + Frontend integrations**
 
 ---
 
@@ -55,22 +63,25 @@ I enjoy transforming ideas into beautiful digital experiences with **modern web 
   <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
 </p>
 
-### 📊 Data Science & Analytics  
+### 📊 Data Science & Backend  
 <p align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/seaborn-4C72B0?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-### 🚀 Tools & Deployment  
+### ⚙️ Programming & Tools  
 <p align="left">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7.svg?style=for-the-badge&logo=render&logoColor=white"/>
   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
@@ -79,19 +90,21 @@ I enjoy transforming ideas into beautiful digital experiences with **modern web 
 
 ## 📊 GitHub Stats  
 
-![](https://github-readme-stats.vercel.app/api?username=nisha-soni-1&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>  
-![](https://streak-stats.demolab.com?user=nisha-soni-1&theme=radical&hide_border=false)<br/>  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nisha-soni-1&theme=radical&hide_border=false&layout=compact)  
+| ![Nisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=nisha-soni-1&theme=radical&hide_border=false&include_all_commits=true&count_private=true) | ![Streak](https://streak-stats.demolab.com?user=nisha-soni-1&theme=radical&hide_border=false) |
+|---|---|
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nisha-soni-1&theme=radical&hide_border=false&layout=compact)
 
 ---
 
 ### 🔝 Top Contributed Repos  
 ![](https://github-contributor-stats.vercel.app/api?username=nisha-soni-1&limit=5&theme=radical&combine_all_yearly_contributions=true)  
 
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=nisha-soni-1&icon=0&color=6" alt="Profile Views"/>
+</p>
+
 ---
 
-[![](https://visitcount.itsvg.in/api?id=nisha-soni-1&icon=0&color=6)](https://visitcount.itsvg.in)  
-
----
-
+<h3 align="center">💬 “Code is like art — the more you practice, the more beautiful it becomes.” ✨</h3>
 
