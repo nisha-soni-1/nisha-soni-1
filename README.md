@@ -2,6 +2,13 @@
 
 <h3 align="center"> BCA Student | Frontend Developer | Passionate About Web Development</h3>
 
+
+<!-- Typing Animation Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=FF006E&center=true&vCenter=true&width=500&lines=+Frontend+Developer;BCA+Student;Web+Developer;Tech+Enthusiast+💻" />
+</h1>
+
+
 ---
 
 ### 🌟 **About Me**
@@ -13,11 +20,15 @@
 
 ---
 
+
+
 ### 🛠️ **Tech Stack**
+
 
 #### 💻 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
@@ -25,11 +36,15 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### 🧰 Tools
+#### 🧰 Tools & Programming Languages
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 ---
 ## 🧠 Soft Skills  
 <p align="center">
@@ -69,5 +84,6 @@
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=nisha-soni-1&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/> </p>
+
 
 
